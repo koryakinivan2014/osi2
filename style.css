@@ -1,0 +1,21 @@
+
+input:focus{outline:none;}
+
+body {
+    background-image: url(8812-r1.jpg);
+    background-size: 400px;
+}
+
+.nano {
+    clear: both;
+}
+
+input {
+    border-radius: 5px;
+    margin: 5px auto;
+    border: 3px solid rgb(185, 185, 185);
+    width: 120px;
+    height: 25px;
+    display: block;
+    float: left;
+}
